@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+.wheel-container {
+	position: relative;
+}
+#baseImage {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
+
+.selectImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+    display: none;
+}
+.transImg {
+	position: absolute;
+	top: 0px;
+	left: 0px;
+}
