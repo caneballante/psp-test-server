@@ -1,0 +1,59 @@
+﻿{
+	"indicator": {
+		"goal": "Healthy Water Quality",
+		"vitalsign": "Freshwater Quality",
+		"indicator-name": "Benthic Index of Biotic Integrity",
+		"lead": "Kate Macneale",
+		"contact": "Kate.Macneale@kingcounty.gov",
+		"logo-link": "KC",
+		"last-updated": "March 18, 2019",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "MIXED RESULTS",
+		"progress-icon-tagline": "The results for this indicator are mixed.",
+		"progress-description": "Progress toward these 2020 freshwater quality targets was mixed. Overall, biological condition at some sites is declining, improving at others, and not changing at most. ~SL Since 2006, the B-IBI scores of some streams have dropped from “excellent” to “good” or “fair”, indicating not all of the “excellent” sites have remained in excellent condition. In contrast, there has been net improvement in the biological condition of streams previously ranked fair by the B-IBI. ~EL",
+		"what": "The Benthic Index of Biotic Integrity (B-IBI) describes the biological condition of stream sites and their surrounding habitat based on the diversity and relative abundance of the benthic (bottom dwelling) macroinvertebrates found at the site. These macroinvertebrates include aquatic insect larvae, including mayflies, stoneflies, caddisflies, beetles, flies, dragonflies, as well as other invertebrates such as worms, snails, and many others. Ten measures of biological condition are scored and summarized as the B-IBI, which ranges from a score of 0, indicating a very poor stream condition, to 100, indicating excellent condition. ~P B-IBI data are routinely collected and reported by more than 20 local jurisdictions, tribes, and other state and federal organizations in Puget Sound for a variety of reasons. The Washington Department of Ecology samples 50 randomly selected stream and river sites every four years to get an unbiased estimate of regional conditions. Snohomish and King Counties also randomly select stream sites to estimate regional condition using the B-IBI. ~P Change over time for this update is calculated as the difference in average scores between two time periods, 2006-2009 and 2015-2018. There were 224 sites across Puget Sound that were sampled at least once during both of these time periods.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. CHANGE IN THE BIOLOGICAL CONDITION OF STREAMS IN PUGET SOUND CLASSIFIED AS EXCELLENT AND FAIR, BASED ON THE BENTHIC INDEX OF BIOTIC INTEGRITY",
+				"subhead": "2006–2009 vs. 2015–2018",
+				"figure-link": "benthic-figure1.jpg",
+				"caption": "Left panel: results address Part 1 of the target; i.e., retain all streams ranked excellent as excellent. Right panel: results address Part 2 of the target; i.e., improve fair streams.",
+				"source": "Source: Puget Sound Stream Benthos",
+				"description": ""
+			},
+			"figure-2": {
+				"title": "FIGURE 2. BIOLOGICAL CONDITION OF STREAMS IN PUGET SOUND, BASED ON THE BENTHIC INDEX OF BIOTIC INTEGRITY",
+				"subhead": "2006–2009 vs. 2015–2018",
+				"figure-link": "benthic-figure2.jpg",
+				"caption": "",
+				"source": "Source: Puget Sound Stream Benthos",
+				"description": "Of the 83 Puget Sound stream sites that scored “excellent” between 2006 and 2009, 17 were sampled again between 2015 and 2018. Of these, 71 percent (12 sites) maintained their excellent ranking (Figure 1, left panel). However, 10 streams that had previously been ranked as good have improved to excellent. Therefore, while this indicator is not meeting the protection target to retain 100 percent of excellent scores, there are other sites where conditions have improved and are now classified as excellent. This has resulted in a net increase in the number of excellent sites between the two time periods (Figure 2). ~P Of the 172 stream sites that scored “fair” between 2006 and 2009, 52 were sampled again between 2015 and 2018. Over half of these sites remained fair over this period, but for the sites that did change, more stream sites improved (15 sites) than declined (8 sites) (Figure 1, right panel). ~P Overall, when considering sites sampled in the two time periods, more sites improved than declined. The number of sites that scored fair, good, or excellent, improved over time, whereas the number of sites that scored very poor or poor declined (Figure 2). ~P The positive trends in site condition seen between these two time periods are consistent with trends observed at 125 sites that have been sampled more than 10 times since 2002. Recent analysis of trendlines from these sites indicates 28 sites are improving significantly, while only one site is declining significantly. ~P Although these trends are encouraging, it is difficult to point to specific actions that explain these trends. Since 2006, land use conversion has continued and urbanization has intensified, and yet macroinvertebrate communities appear to be recovering in many streams across the region. Macroinvertebrate communities are impacted by a variety of stressors that are associated with land use conversion and urbanization, including but not limited to excessive fine sediment, contaminants in stormwater runoff, loss of riparian vegetation and scouring high flows. Thus, improvements in B-IBI scores are presumably due to reductions in these environmental stressors. Studies are underway to fully understand how conditions have been improved over time, and whether credit can be given to changes in stormwater best management practices and stream and riparian restoration."
+			}
+		},
+		"more-description": "",
+		"why-happening": "",
+		"references": "",
+		"target": "1. Protect: 100 percent of Puget Sound lowland stream drainage areas ranked as excellent retain excellent scores for the Benthic Index of Biotic Integrity for biological condition~P 2. Restore: Improve and restore at least 30 streams ranked fair so their scores become good.",
+		"interim-target": "Interim targets have not been set for these indicators",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
+			"link0": {
+				"link-name": "Puget Sound Stream Benthos",
+				"link-url": "http://www.pugetsoundstreambenthos.org"
+			},
+			"link1": {
+				"link-name": "Benthic Index of Biotic Integrity for King County streams",
+				"link-url": "http://www.kingcounty.gov/services/environment/data-and-trends/monitoring-data/stream-bugs/stream-data.aspx"
+			},
+			"link2": {
+				"link-name": "Washington Department of Ecology Stream Biological Monitoring",
+				"link-url": "https://ecology.wa.gov/Research-Data/Monitoring-assessment/River-stream-monitoring/Habitat-monitoring/Stream-biological-monitoring"
+			}
+
+		}
+	}
+
+}

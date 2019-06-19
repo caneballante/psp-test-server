@@ -1,0 +1,42 @@
+﻿{
+	"indicator": {
+		"goal": "Protected and Restored Habitat",
+		"vitalsign": "Land Development and Cover",
+		"indicator-name": "Riparian restoration",
+		"lead": "Alex Mitchell",
+		"contact": "alex.mitchell@psp.wa.gov",
+		"logo-link": "PSP",
+		"last-updated": "August 6, 2018",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "GETTING BETTER",
+		
+		"progress-description": "Because the cumulative amount of restoration of vegetation along riparian corridors increases incrementally every year, progress of the indicator is categorized as getting better.~SL Cumulatively, activities to restore vegetation in riparian areas occurred along an estimated 154 linear miles of streams and rivers during that time period.~B This estimate is just over half of the 2020 target of 268 miles.~EL~P Data indicate that activities to restore vegetation in riparian corridors, such as planting native species, were reported as completed for 94 projects in the Puget Sound basin from Federal Fiscal Years 2009 to 2016 (Oct. 1, 2008, through Sept. 30, 2016). The footprint of those activities was reported only for 75 of those projects. No projects were reported in 2009.",
+		"what": "This indicator is the restoration of riparian vegetation.~P Land development has significantly degraded riparian vegetation corridors along Puget Sound rivers and streams. Intact riparian corridors are critical for keeping fresh and marine waters clean and cool, moderating variability in water volume and timing of flow (flood storage), and offering key habitat for myriad terrestrial, freshwater, and interface species, such as salmon. ~P The intent of the riparian vegetation restoration indicator is to measure the amount of new vegetated cover delivered by restoration projects along riparian corridors. Habitat restoration projects are compiled by the Puget Sound Partnership on behalf of the U.S. Environmental Protection Agency. ~P The amount of riparian corridor restored to vegetated cover is measured through collection of acreage or linear riparian shoreline restoration reported for Puget Sound restoration projects. Riparian restoration efforts are being measured instead of riparian condition due to the difficulty in assessing riparian condition Sound-wide and the length of time necessary to call a specific location successfully restored. ~P Although tracking total riparian condition is a much more difficult task than tracking regional forest cover, the initiation and completion of restoration activities are feasible measures. Successful restoration could take many years and measuring its success will require ongoing monitoring. ~P Puget Sound Partnership staff compiled data for each federal fiscal year since 2009. Data are primarily from the Washington State Recreation and Conservation Office’s Project Information System (PRISM).",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1. ESTIMATED FOOTPRINT OF PROJECTS THAT RESTORED VEGETATION IN RIPARIAN CORRIDORS",
+				"subhead": "2009 – 2016",
+				"figure-link": "landcover_riparian.jpg",
+				"caption": "Years represent Federal Fiscal Year (2009 refers to Oct. 1, 2008, to Sep. 30, 2009). Cumulative length is the total between 2009 and the last reported year. The numbers over the bars show the number of projects that reported activities to restore vegetation in riparian corridors.",
+				"source": "Source: Project Information System (PRISM)",
+				"description": ""
+			}
+
+		},
+		"more-description": "",
+		"why-happening": "",
+		"references": "",
+		"target": "Restore 268 miles of riparian vegetation or have an equivalent extent of restoration projects under way.",
+		"interim-target": "There currently are no interim targets for this Vital Sign.",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
+			"link0": {
+				"link-name": "Project Information System (PRISM)",
+				"link-url": "https://rco.wa.gov/prism_app/about_prism.shtml"
+			}
+			}
+	}
+}

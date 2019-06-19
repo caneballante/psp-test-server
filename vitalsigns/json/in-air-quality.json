@@ -1,0 +1,57 @@
+﻿{
+	"indicator": {
+		"goal": "Healthy Human Population",
+		"vitalsign": "Air Quality",
+		"indicator-name": "Air quality indicator TBD",
+		"lead": "TBD",
+		"contact": "",
+		"logo-link": "TBD",
+		"last-updated": "September 15, 2017",
+		"status-icon": "NO 2020 TARGET",
+		"progress-icon": "INSUFFICIENT OR NO DATA",
+		"progress-icon-tagline": "There is not sufficient data to evaluate trends or progress relative to the baseline reference",
+		"progress-description": "No data are currently available for this indicator. We anticipate that data will be collected within the next 2 years, with assessment of trends and progress within the next 4 to 6 years. ",
+		"what": "The Air Quality Vital Sign will track the annual status of air quality across Puget Sound counties and will attempt to identify whether specific demographic groups are more exposed to poor air quality than others, as well as the sources of poor quality in different areas. We have not yet identified the type of data that will be reported. ",
+		"data": {
+			"figure-1": {
+				"title": "",
+				"subhead": "",
+				"figure-link": "",
+				"caption": "",
+				"source": "",
+				"description": "No data are currently available for this indicator. The Puget Sound Partnership is seeking funding to support data collection."
+			}
+		},
+		"more-description": "",
+		"why-happening": "Analysis of data trends is not currently available. ",
+		"references": "",
+		"target": "No targets are currently set for this indicator. ",
+		"interim-target": "",
+		"interim-target-title": "",
+		"interim-target-table": "",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
+			"link0": {
+				"link-name": "Washington Air Quality Advisory",
+				"link-url": "https://www.doh.wa.gov/Portals/1/Documents/4300/waqa%20infographic_English.pdf"
+			},
+			"link1": {
+				"link-name": "Washington Smoke Blog",
+				"link-url": "http://wasmoke.blogspot.com/"
+			},
+			"link2": {
+				"link-name": "Current Air Quality Network Map  by the Puget Sound Clean Air Agency",
+				"link-url": "https://secure.pscleanair.org/AirQuality/NetworkMap"
+			},
+			"link3": {
+				"link-name": "PurpleAir Air Quality Monitoring",
+				"link-url": "https://www.purpleair.com/map"
+			},
+			"link4": {
+				"link-name": "Results Washington Air Quality Results",
+				"link-url": "http://results.wa.gov/population-living-where-air-quality-meets-federal-standards"
+			}
+		}
+	}
+}

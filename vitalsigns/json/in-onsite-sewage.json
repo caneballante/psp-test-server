@@ -1,0 +1,59 @@
+﻿{
+	"indicator": {
+		"goal": "Healthy Human Population",
+		"vitalsign": "Onsite Sewage Systems",
+		"indicator-name": "Inventory, inspection, and repair of onsite sewage systems",
+		"lead": "Jeremy Simmons",
+		"contact": "jeremy.simmons@doh.wa.gov",
+		"logo-link": "DOH",
+		"last-updated": "March 18, 2019",
+		"status-icon": "BELOW 2020 TARGET",
+		"progress-icon": "GETTING BETTER",
+
+		"progress-description": "The 2020 target for inventories has nearly been met, but significant work remains to reach the 2020 target for inspection rates. ~SL Collectively, local health jurisdictions have inventoried more than 79,000 septic systems. Of these, 93 percent are fully documented, generally meaning that the county has a record of the system in their database, including its condition and inspection status.~B Local health jurisdictions have made advances in inventorying and inspecting septic systems since 2011. Most recently, more than 40,000 systems were up-to-date with inspections, or 51 percent of the inventory.~B Issues with the data collected for the fixing failed septic systems indicator have previously prevented reporting of this measure. Changes to data collection now allow reporting on this measure.  Throughout 2018 there were a total of 421 failures (234 discovered during the reporting period and 187 from previous reporting periods). Of these, 213 were repaired. This equates to a repair rate of 51 percent.~EL",
+		"what": "This indicator tracks and advances the proper use and care of onsite sewage systems (septic systems) in sensitive and high-risk areas of Puget Sound, in order to protect public health and water quality. The indicator consists in three distinct measures: inventory, inspection and repair of onsite sewage systems in designated areas. The designated areas include Marine Recovery Areas and other areas with comparable requirements <a href='https://pspwa.box.com/s/33ajby5f9fidy5uh23lru383bwkg9kjm'>(PDF)</a>. State rules require all homeowners to regularly inspect and maintain their onsite sewage systems. However, in Marine Recovery Areas and other designated areas, local health jurisdictions (LHJs) engage more directly with homeowners to help ensure systems are inspected and maintained to reduce public health risks.~P The 12 Puget Sound LHJs report data semi-annually to the Washington State Department of Health (DOH). Data for the 2020 target were compiled starting in 2011.~P All 12 Puget Sound LHJs have adopted comprehensive management plans for onsite sewage systems under the state onsite sewage rule. The management plans frame the local Operation & Maintenance programs. While the 12 local Operations & Maintenance programs have common elements, they are all uniquely designed and implemented. The DOH oversees the statewide onsite sewage rule and collects and interprets local data for the Puget Sound targets.",
+		"data": {
+			"figure-1": {
+				"title": "FIGURE 1: INVENTORY OF ONSITE SEWAGE SYSTEMS IN DESIGNATED AREAS",
+				"subhead": "2011-2018",
+				"figure-link": "onsite-sewage-figure1.jpg",
+				"caption": "",
+				"source": "Source: Washington State Department of Health, Office of Environmental Health and Safety ",
+				"description": "The 12 Puget Sound LHJs have inventoried over 79,000 onsite sewage systems in Marine Recovery Areas and other specially designated areas since 2011. The inventory includes septic systems with official records and that are current with inspection, systems that are overdue for an inspection, and systems that are suspected to exist but are not officially documented. Since 2011, the baseline reference year, over 23,000 additional septic systems were added to the inventory. The overall percentage of onsite sewage systems that have been inventoried and documented rose from 86 percent to 93 percent during this period and reflects progress toward the 2020 target of 100 percent."
+			},	
+			"figure-2": {
+				"title": "FIGURE 2: ONSITE SEWAGE SYSTEMS INSPECTIONS IN DESIGNATED AREAS",
+				"subhead": "2011-2018",
+				"figure-link": "onsite-sewage-figure2.jpg",
+				"caption": "",
+				"source": "Source: Washington State Department of Health, Office of Environmental Health and Safety ",
+				"description": "The percent of septic systems that have been inspected and the inspection is current, increased from 33 percent to 51 percent between 2011 and 2018. Although there has been steady progress relative to the baseline reference, the indicator is still far from reaching the 2020 target value of 95 percent. Working with homeowners to ensure and track ongoing regular inspections is challenging and costly. State and federal funds have provided additional resources for work on the 2020 targets.~P The third measure of this target is to fix all failures in the designated areas. This indicator originally sought to track the percentage of failures that were repaired/replaced within 18 months of being identified.  This turned out to be impractical since LHJs do not uniformly track the timeframes associated with repairs.  The LHJs do all track numbers of failures identified each reporting period.  In January 2016 we changed the data requested of LHJs to track and compare the number of all failures with those fixed.  This, in effect, changes the indicator to the percentage of failures (including both newly identified failures and failures remaining from a previous reporting period) fixed in a given reporting period.~P Throughout 2017 there were a total of 649 failures (282 discovered during the reporting period and 367 remaining from previous reporting periods).  Of these, 272 were repaired.  This equates to a repair rate of 42 percent. "
+			}
+
+		},
+		"more-description": "",
+		"why-happening": "The LHJs are currently working to adapt and align their programs to fit with these ambitious regional targets.~P The Puget Sound Operations & Maintenance (O&M) programs in LHJs are inherently complex and costly to implement. They all work from the same rule requirements and core elements, but are all tailored to local conditions, budgets, and ways of doing business. They require significant planning, infrastructure, personnel, public education, political support, community buy-in, financial resources, and smart execution.~P At all levels of government, funding for decentralized wastewater programs and infrastructure dramatically lags behind public investment in centralized sewer systems. State financial support for the Puget Sound O&M programs has never materialized at a scale originally envisioned when the state onsite sewage and Marine Recovery Area laws were enacted. Most O&M program costs are covered locally and are complemented by state and federal grants. The DOH surveyed the local programs in 2014 to determine financial need. The analysis documented highly variable local expenditures ($6+ million including grants) and needs, and estimated total annual need at more than $14 million to implement current programs, and more than $24 million to carry out baseline services regionally.~P The targets provide a small window into the workings of the local O&M programs. These programs include such diverse activities as financial lending for system repairs, code enforcement, homeowner inspection training, data management, certification of O&M professionals, homeowner notification and reporting, and community outreach.~P Management—characterized here as O&M—has long been recognized as the weak link in the widespread use of onsite sewages systems when compared to centralized sewers. The picture is gradually changing in the Puget Sound region as local O&M programs take root, but it will continue to take significant investments and smart thinking to effectively design and deliver these utility-style programs and services on an ever-expanding scale.~P Homeowners and elected officials alike are increasingly seeing the need for and benefits of these programs. The Action Agenda and regional targets will continue to shape and guide these efforts.",
+		"references": "",
+		"target": "Inventory all onsite sewage systems in Marine Recovery Areas and other specially designated areas; be current with inspections at 95%; and fix all failures.",
+		"interim-target": "<a href='http://www.psp.wa.gov/downloads/interimtargets/On-site%20Sewage%20Systems%20Interim%20Targets%20-%20FINAL.pdf'>Link to interim targets</a> ",
+		"interim-target-title": "TABLE 1: PROGRESS TOWARD 2018 INTERIM TARGET",
+		"interim-target-table": "onsite-sewage-table1.jpg",
+		"map-link": "",
+		"map-link-text": "",
+		"links": {
+			"link0": {
+				"link-name": "Washington State Department of Health's On-site Sewage Systems program",
+				"link-url": "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement/OnsiteSewageSystemsOSS"
+			},
+			"link1": {
+				"link-name": "Washington State Department of Health's Wastewater Management Program",
+				"link-url": "http://www.doh.wa.gov/CommunityandEnvironment/WastewaterManagement"
+			},
+			"link2": {
+				"link-name": "",
+				"link-url": ""
+			}
+		}
+	}
+
+}

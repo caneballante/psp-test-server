@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+
+
+
+.heading {
+	font-size: 1.5em;
+	font-weight: 800;
+}
+.descriptive-heading1{
+	font-size: 1em;
+	font-weight: 300;
+}
+.descriptive-heading2{
+	font-size: 1em;
+	font-weight: 300;
+	text-transform: uppercase;
+}
+
+@media (max-width: 1000px) {
+.arrow {
+	display: none;
+}
+}
+.goal {
+	font-size: 1.5em;
+	font-weight: 200;
+	font-style: italic;
+	text-transform: uppercase;
+}
+.vitalsign {
+	font-size: 1.5em;
+	font-weight: 200;
+	font-style: italic;
+	text-transform: uppercase;
+}
+.vitalsignBold {
+	font-size: 1.5em;
+	font-weight: 500;
+	font-style: italic;
+	text-transform: uppercase;
+}
+.indicatorBold {
+	font-size: 1.5em;
+	font-weight: 500;
+	font-style: italic;
+	text-transform: uppercase;
+}
+.contact {
+	font-size: 1em;
+	font-weight: 300;
+	text-transform: uppercase;
+	
+}
+.border1px {
+	border: solid 1px #434343;
+}
+.center {
+	text-align: center;
+}
+.orange > a {
+	color: #e86e2f !important;
+}
+.green > a {
+	color: #60AA3E !important;
+}
+.pink > a {
+	color: #DB2365 !important;
+}
+.purp > a {
+	color: #8228BF !important;
+}
+.blue > a {
+	color: #54A4D2 !important;
+}
+.aqua > a {
+	color: #01B499 !important;
+}
+.orange-header {
+	color: #e86e2f !important;
+}
+.green-header {
+	color: #60AA3E !important;
+}
+.pink-header {
+	color: #DB2365 !important;
+}
+.purp-header {
+	color: #8228BF !important;
+}
+.blue-header {
+	color: #54A4D2 !important;
+}
+.aqua-header  {
+	color: #01B499 !important;
+}
+.white {
+	color: #fff;
+}
+/*overwriting the custom css from the main site- want the main nav to align left*/
+.nav-leftside-custom {
+    text-align: left;
+	
+}
+.nav-leftside-custom a {
+    font-size: 14px;
+}
+
+.vs-nav-goal > a {
+    font-weight: 700;
+}
+
+.vs-nav-vital-indicator > a {
+	margin-left: 20px;
+}
+/*overwrites bootstrap*/
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 3px 5px;
+}
+.nav-leftside-custom .subLeftNav a {
+    font-size: 12px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+}
+/*overwrite rule in bootstrap to compress vital nav vertically*/
+hr {    
+	margin-top: 5px;
+    margin-bottom: 5px;
+    border: 0;
+    border-top: 1px solid #A7A7A7;
+}
+
+
+.heading {
+	font-size: 17px;
+	line-height: 1.9;
+	font-family: prenton, san-serif;
+	font-weight:100;
+}
+
+.indicator-list {
+	font-family: 'prenton', san-serif;
+	font-weight: 100;
+	font-size: .6 em;
+
+}
+.psemp-tiny {
+	font-size: .8em;
+	text-align: center;
+}
+
