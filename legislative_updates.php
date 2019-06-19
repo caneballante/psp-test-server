@@ -72,33 +72,62 @@
 		
 			
 				
+			<h2 class="margin-0-top">2019 Legislative SESSION</h2>
+			<h3 class="margin-0-top"> Legislative CALENDAR</h3>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22765b0">Week 1, January 14 - 18, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/228ff40">Week 2, January 21 - 25, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22a8891">Week 3, January 28 - February 1, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c2cc2">Week 4, February 4 - 8, 2019 </a></p>
+				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22dd2fd">Week 5, February 11 - 15, 2019 </a></p>
+					<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22fc0a6">Week 6, February 18 - 22, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/233335b">Week 7, February 25 - March 1, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2316d89">Week 8, March 4 - 8, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/234f720">Week 9, March 11 - 15, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/236b6a3">Week 10, March 18 - 22, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2387bef">Week 11, March 25 - 29, 2019 </a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23a54df">Week 12, April 1 - 5, 2019 </a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23c074a">Week 13, April 8 - 13, 2019 </a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23db69c">Week 14, April 15 - 19, 2019 </a></p>
+			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23db69c">Week 15, April 22 - 26, 2019 </a></p>
+				<h3 class="margin-20-top"> LEGISLATIVE UPDATE NEWSLETTER</h3>
+				<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22f17cd">Legislative Update, February 12, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2338800">Legislative Update, March 1, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2382366">Legislative Update, March 20, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23ea875">Legislative Update, April 16, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f7430">Legislative Update, April 19, 2019</a></p>
+			<p>	<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2428582">Legislative Wrap-Up, May 2, 2019</a></p>
+			<h3 class="margin-20-top"> LEGISLATIVE UPDATE TELECONFERENCE RECORDINGS</h3>
+			<p>	<a href="https://pspwa.app.box.com/s/h5rw0jyp9xjwi3l854xw2qxu6samxa25">January 25, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/9bglxd0hxnqkxb20vh3njtnxmj8gii83">February 1, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/zz6llu9miqk7hdvhe7jcknmolq1ltfj6">February 15, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/sxsuj7fozzz31qn8rrai8sgnu11of2ln">February 22, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/g2gx7q2mvjmeg7thqk7wnw6f06kdp7vh">March 1, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/ghwu0jxrtwgrtp2ndmc1uig31pef4i62h">March 8, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/6e08nxtjbzhzvkv03cdsasiq56eujk77">March 15, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/g2gx7q2mvjmeg7thqk7wnw6f06kdp7vh">March 15, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/9r5l0mem87uckj4wg0zu1cu4hbahf3qr">March 22, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/t2xinyfs0k177w9hflbmrmbga0t1memm">March 29, 2019</a></p>
+			<p>	<a href="https://pspwa.box.com/s/tjqr54nhh6bwj9cv993avidub7diijjp">April 5, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/9tndutf5b2vnw4x6pzlnbqtptn50w64y">April 12, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/vdp081tlhf8d2ovltmycy7mbl3nbexoi">April 19, 2019</a></p>
+			<p>	<a href="https://pspwa.app.box.com/s/o3a3nhcizgwgaigae986w819r0baygug">April 26, 2019</a></p>
+				
+			<h3 class="margin-20-top"> DocuMENTS</h3>
+			<p>	<a href="https://pspwa.box.com/s/1j96ygpaotgs83wczy2lcx4kf4ahvdzz">Orca Task Force handout</a></p>
 			
-				<h2 class="margin-0-top">2018 Legislative Updates</h2>
+			
+			
+			<h2>Legislative Updates and Calendar Archives</h2>
+			<h3 class="margin-0-top">2018 Legislative Updates</h3>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d66b90">JANUARY 29th</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dcb479">FEBRUARY 21st</a></p>
 				<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1dfcfda">MARCH 5th</a></p>
 			<p><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e2b6e0">MARCH 16th</a></p>
-		
-			<h2 class="margin-20-top">2018 Legislative Calendars </h2>
+
 			
-			
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d08868">WEEK 1 
-JAN 8 – 12, 2018</a><br><a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d281f5">WEEK 2 
-JAN 15 – 19, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d43afb">WEEK 3 
-JAN 22 – 26, 2018</a><br>
-				<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d5edaa">WEEK 4 
-JAN 29 – FEB 2, 2018</a><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1d7b1b1">WEEK 5 
-FEB 5– FEB 9 2018</a><br>
-			<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1db7501">WEEK 8:  
-FEB 19– FEB 23 2018</a>
-			
-				<h2 class="margin-20-top">2018 Legislative Agenda</h2>
+				<h3 class="margin-20-top">2018 Legislative Agenda</h3>
 			<p><a href="https://pspwa.box.com/s/eotk0itkj6v3zulbdki1n6urrfet7cjw">2018 Legislative Agenda</a></p>
 			<br>
-			
-			<h2>Legislative Updates and Calendar Archives</h2>
 			
 			
 			<p><a href="https://pspwa.box.com/s/nf1s6fv3pikty2elkk9nxobhz0jj3gha">View 2017 Materials</a></p>
@@ -114,17 +143,16 @@ FEB 19– FEB 23 2018</a>
 			<!-- InstanceEndEditable -->
 			<ul class="nav-rightside-custom">
 				<!-- InstanceBeginEditable name="right_nav_links" -->
-				<p class="right-nav-contact">For questions about Goverment Relations:<br />
-					<br>
-					<strong>Jeff Parsons</strong>, <br>
+				<p class="right-nav-contact">For questions about Goverment Relations:</p>
+					<p>Jeff Parsons, <br>
 					Legislative Policy Director,<br>
 					<a href="mailto:jeff.parsons@psp.wa.gov">jeff.parsons@psp.wa.gov</a><br>
-					360.999.3803<br>
-					<br>
-					<strong>Cathy Cochrane</strong>, <br>
-					Communication Lead,<br>
-					<a href="mailto:jeff.parsons@psp.wa.gov">catherine.cochrane@psp.wa.gov</a><br>
-					360.790.7958 </p>
+					360.999.3803</p>
+				<hr>
+				<p>Olympia Office<br>
+					1110 Capitol Way South<br>
+					Olympia, WA  98501</p>
+				
 				<!-- InstanceEndEditable -->
 			</ul>
 			<!-- InstanceEndRepeatEntry --><!-- InstanceEndRepeat --> </div>

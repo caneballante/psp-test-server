@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
+			<h1>2019 ECOSYSTEM COORDINATION BOARD MEETINGS</h1>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
 	</div>
@@ -72,37 +72,37 @@
 					<td width="251" class="tableheader">PROPOSED AGENDA &amp; SUMMARY</td>
 				</tr>
 				<tr>
-					<td class=""><p>Feb 15</p></td>
-					<td class=""><p>Lacey Community Center<br>
-						6729 Pacific Avenue<br>
-						Lacey, WA 98503
-					</p>
+					<td class=""><p>February 21</p></td>
+					<td class=""><p>St Placid Priory</p>
+					  <p>500 College St NE </p>
+					  <p>Lacey, WA 98516<br>
+					  </p>
 						</td>
-					<td class=""><p><a href="https://pspwa.box.com/s/pw5gbu3h2qbgdoo4rjadpiw5zo22n2id" target="new">Meeting Materials</a></p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/pzbcpfl48lqmzkkm4sl59gscfja4w922" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td ><p>May 17</p></td>
+					<td ><p>May 29</p></td>
 					<td><p>South Seattle Community College Georgetown<br>
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
-					(potential join meeting with SRC)</p></td>
-					<td><p><a href="https://pspwa.box.com/s/vcge08e94r83axazqqlyszwtft20hsxi" target="new">Meeting Materials</a></p></td>
+					</p></td>
+					<td><p><a href="https://pspwa.box.com/s/pzmd767i1728xhq0m7109v1aa9eg6uk6" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td><p>August 23					</p></td>
+					<td><p>August 15</p></td>
 					<td class=""><p>South Seattle Community College Georgetown<br>
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
-					(potential join meeting with SRC)</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/3er109drf37cgdp0ap2f1tkipw7fa3qx" target="new">Meeting Materials</a></p></td>
+					</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/qamh9pxmqi5ht8b0dvjdpkfqx3tkrtsp" target="new">Meeting Materials</a></p></td>
 				</tr>
 				<tr>
-					<td height="125" class=""><p>October 25</p></td>
+					<td height="125" class=""><p>November 13</p></td>
 					<td class=""><p>South Seattle Community College Georgetown<br>
 						6737 Corson Ave South<br>
 						Seattle, WA 98108<br>
-					(potential join meeting with SRC)</p></td>
-					<td class=""><p><a href="https://pspwa.box.com/s/gvuagthqvdq3f709pow1s6jnwrmj36wt" target="new">Meeting Materials</a></p></td>
+					</p></td>
+					<td class=""><p><a href="https://pspwa.box.com/s/pdzf5jtxpxs0xr1tjt5e03on9nk7pq9i" target="new">Meeting Materials</a></p></td>
 				</tr>
 				
 				

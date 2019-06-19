@@ -76,7 +76,7 @@ This page contains current contract and grant opportunities, as well as valuable
 
  <h2>Sole-Source Contract Notification</h2>
  
-<p> <a href="https://pspwa.box.com/s/dw0ttw8diybl9b7maceagyzhiebaqtle">03-26-18 The Puget Sound Partnership (Partnership), a Washington State Agency, contemplates awarding one sole-source contract to Sitka Technology Group to improve Miradi Share reporting and communication tools and capacity, particularly related to Local Integrating Organizations (LIO) plan content and syntheses (as specified in EPA work plan, Subtask C1).</a></p>
+<iframe src="https://pspwa.app.box.com/embed/s/neuz5umsrp82r4t2dyxjiuq2mfioaeow?showParentPath=false&sortColumn=date&view=list" width="500" height="400" frameborder="0" allowfullscreen webkitallowfullscreen msallowfullscreen></iframe>
  
 			 
 		<!-- InstanceEndEditable --> </div>

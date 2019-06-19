@@ -47,12 +47,14 @@ a[href^="http"] {
 /*added as a way to remove the icon in special cases. Used on the social icons*/
 .no-icon a[href^="http"] {
 	background: none;
-	
 	padding-left: 0px;
 }
 /*created this to make some email addresses smaller to fit in a table on the lead entities page*/
 .small-links {
 	font-size: 12px !important;
+}
+.large-links {
+	font-size: 18px !important;
 }
 .bold-link a {
 	color: #00A4F6;
@@ -72,6 +74,7 @@ a[href^="http"] {
 .white-links a {
 	color: #fff;
 }
+
 #home-squares a {
 	font-size: 14px;
 	font-weight: 100;
@@ -251,7 +254,9 @@ p {
 .padding-60-left {
 	padding-left: 60px;
 }
-
+.padding-70-left {
+	padding-left: 70px;
+}
 @media (max-width: 768px) {
 .mobile-padding-20-left {
 	padding-left: 20px;
@@ -483,7 +488,7 @@ p {
 .highlightbox {
 	background-color: rgba(227,237,249,1.00);
 	border-radius: 1px 30px 1px 1px;
-	padding: 10px;
+	padding: 20px;
 }
 .highlightbox h2 {
 	color: #0a3b5c;
@@ -508,7 +513,7 @@ p {
 	padding: 100px 0;
 	text-align: center;
 	color: #fff;
-	background: url(../images/home_image8.jpg)no-repeat bottom center scroll;
+	background: url(../images/home_image9.jpg)no-repeat bottom center scroll;
 	background-color: #000;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -785,6 +790,12 @@ p {
 .overview-page-image109 {
 	background: url(../images/inside_image_109.jpg)no-repeat bottom center scroll;
 }
+.overview-page-image110 {
+	background: url(../images/inside_image_110.jpg)no-repeat bottom center scroll;
+}
+.overview-page-image111 {
+	background: url(../images/inside_image_111.jpg)no-repeat bottom center scroll;
+}
 
 
 .overview-page-image-style {
@@ -965,4 +976,10 @@ p {
 	float: right;
 	width: 45%;
 	//border: solid 1px #288A1F;
+}
+.PSEMP-blue {
+	color: #3C6E8C;
+}
+.PSEMP-green {
+	color: #7C9A90;
 }

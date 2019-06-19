@@ -67,16 +67,15 @@
 		 
 		<div class="col-sm-9 padding-20-top padding-40-right content-column mobile-padding-20-left"> <!-- InstanceBeginEditable name="9col_content" -->
 			<div class="highlightbox margin-0-top">
-				<p class="padding-10-all">ANNOUNCEMENT 1/31/2018 <br> 2018 PSAR large cap request for proposals released. <a href="https://pspwa.box.com/v/2018PSAR">Click here to view materials</a></p>
-			
+				<p class="padding-10-all"><a href="PSAR-resources.php"> PSAR project fact sheets</a><br>				
 			</div>
 			<div class="sidebarbox margin-20-top margin-20-left margin-20-bottom padding-10-all orange-fill">
 				<h3 class="margin-0-top">PSAR ACCOMPLISHMENTS</h3>
-					<p>$167.6 million invested in Puget Sound recovery<br>
-					River shoreline restored: <strong>4,614 acres</strong><br>
-					Estuary habitat restored<strong>: 2,723 acres</strong><br>
-					Watershed habitat protected: <strong>9,620 acres</strong><br>
-					Fish passage restored: <strong>69 river miles</strong></p>
+					<p>$200 million invested in Puget Sound recovery<br>
+					River shoreline restored: <strong>5,952 acres</strong><br>
+					Estuary habitat restored<strong>: 3,040 acres</strong><br>
+					Watershed habitat protected: <strong>10,701 acres</strong><br>
+					Fish passage restored: <strong>80 river miles</strong></p>
 			</div>
 			<p class="margin-20-top"><strong>Investing in habitat restoration and protection to bring back Puget Sound's natural systems-for salmon, people and community</strong></p>
 			<p class="margin-20-top">The Puget Sound Acquisition and Restoration (PSAR) fund supports projects that recover salmon and protect and recover salmon habitat in Puget Sound. The state legislature appropriates money for PSAR every 2 years in the Capital Budget. PSAR is co-managed by the Puget Sound Partnership and the Recreation and Conservation Office. Local entities identify and propose PSAR projects. The Salmon Recovery Funding Board prioritizes projects for funding.</p>
@@ -93,7 +92,7 @@
 		<p><strong>COMMUNITY INVOLVEMENT IN PSAR PROJECTS</strong><br>
 			<strong>Each community decides which projects matter most. </strong><br>
 			Washington approaches salmon recovery in a unique way. People in communities around Puget Sound organized themselves to address Endangered Species Act listings of Chinook and other salmonids in Washington state. This local approach to a difficult problem is known as &ldquo;the Washington Way.&rdquo;</p>
-			<p>The 15 community-based groups that organized in Puget Sound are called <a href="http://www.psp.wa.gov/salmon-lead-entities.php">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are accepted by NOAA as the owners of each region&rsquo;s recovery and are responsible to carrying out salmon recovery plans. </p>
+			<p>The 15 community-based groups that organized in Puget Sound are called <a href="https://www.rco.wa.gov/salmon_recovery/lead_entities.shtml">Lead Entities</a>. Lead Entities are supported by regional entities called <a href="http://www.psp.wa.gov/salmon-recovery-overview.php">regional recovery organizations</a>. There are seven around the state, including two in the Puget Sound region. The Puget Sound Partnership is the regional recovery organization for all of Puget Sound except the Hood Canal area. Recovery organizations are accepted by NOAA as the owners of each region&rsquo;s recovery and are responsible to carrying out salmon recovery plans. </p>
 		<h2>LESSONS LEARNED</h2>
 			<p><strong>The PSAR program continues to improve with feedback from Local Entities.</strong><br>
 			As managers of the PSAR program, RCO and the Partnership continuously look for opportunities to improve how PSAR works. Some of the improvements over the past 10 years include the following:</p>
@@ -115,14 +114,14 @@
 		<h2>PSAR PROJECT BENEFITS </h2>
 		<p><strong>PSAR benefits extend beyond the local ecosystem:</strong></p>
 		<ul>
-			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughtly $2.5 million in total economic activity. </li>
+			<li>Every $1 million invested in watershed restoration produces more than 16 new or sustained jobs roughly $2.5 million in total economic activity. </li>
 			<li>80 percent of the funds invested in restoration projects stays in the county where the projects are located, providing needed cash in more rural and distressed counties. </li>
 		</ul><br><br>
 		
 		<p><strong>For more information contact:</strong></p>
-			<h5>SUZANNA STOIKE</h5>
-			<p> PSAR Program Coordinator<br>
-			360.701.4604 | <a href="mailto:suzanna.stoike@psp.wa.gov">suzanna.stoike@psp.wa.gov</a></p>
+			<h5>CARRIE BYRON</h5>
+			<p> PSAR Program Manager<br>
+			360.515.6054 | <a href="mailto:carrie.byron@psp.wa.gov">carrie.byron@psp.wa.gov</a></p>
 			<p>&nbsp;</p>
 			<div>
 				<div> </div>

@@ -47,7 +47,7 @@
 	<div class="row">
 		<div class="col-sm-3 padding-20-top"></div>
 		<div class="col-sm-7 padding-20-top"> <!-- InstanceBeginEditable name="6col_header" -->
-			<h1>2018 LEADERSHIP COUNCIL MEETINGS</h1>
+			<h1>2019 LEADERSHIP COUNCIL MEETINGS</h1>
 			<p>&nbsp;</p>
 			<!-- InstanceEndEditable --></div>
 		<div class="col-sm-2 padding-20-top"></div>
@@ -74,37 +74,30 @@
 				</tr>
 				<tr> </tr>
 				<tr>
-					<td><p>March 28/29</p></td>
-					<td><p>Washington State University<br>
-						2606 West Pioneer<br>
-					Puyallup, WA 98371</p></td>
-					<td><a href="https://pspwa.box.com/s/99h4z3oa9wfqs6sba56noz43ehty06mn" target="new">Meeting Materials</a></td>
+					<td><p>March 13</p></td>
+					<td><p>Red Lion Hotel<br>
+				    2300 Evergreen Park Dr SW, Olympia, WA 98502</p></td>
+					<td><a href="https://pspwa.box.com/s/bru7027m4o4p64vhibhnkqyjxmptvako" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>June 12</p></td>
-					<td><p>North City Water Districts<br>
-						1519 NE 177th Street<br>
-					Shoreline, WA 98155</p></td>
+					<td><p>June 11-12</p></td>
+					<td><p>Mt. Vernon, WA</p></td>
 
-					<td><a href="https://pspwa.box.com/s/yinkhf1j2fu9fhgjwk76j7tkknl5g56r" target="new">Meeting Materials</a></td>
+					<td><a href="https://pspwa.box.com/s/o411dqh61n4g20dmi0g76hul510wk0tl" target="new">Meeting Materials</a></td>
 
 				</tr>
 				8/16/17 
 Under Location:
 
 				<tr>
-					<td><p>September 12/13</p></td>
-					<td><p>Brickworks<br>
-						150 Nichols Street<br>
-					Friday Harbor, WA 98250</p></td>
-					<td><a href="https://pspwa.box.com/s/8m2mdydxvniyuoz42x8fs4j9pqc4023r" target="new">Meeting Materials</a></td>
+					<td><p>October 1-2</p></td>
+					<td><p>Seattle, WA</p></td>
+					<td><a href="https://pspwa.box.com/s/1je6jotfkwt4xryk394vw0wosj1sy5t0" target="new">Meeting Materials</a></td>
 				</tr>
 				<tr>
-					<td><p>December 4/5</p></td>
-					<td><p>South Seattle Community College Georgetown<br>
-						6737 Corson Ave South <br>
-					Seattle, WA 98108</p></td>
-					<td><a href="https://pspwa.box.com/s/6i4fr9opajczewctzhyji4c7psohl3rm" target="new">Meeting Materials</a></td>
+					<td><p>December 3</p></td>
+					<td><p>Bremerton, WA</p></td>
+					<td><a href="https://pspwa.box.com/s/v3h7mslkj2tz2f1nrjrhh1sm9s3hu2py" target="new">Meeting Materials</a></td>
 				</tr>
 			
 				

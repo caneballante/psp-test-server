@@ -69,16 +69,27 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
-			<h2 class="margin-0-top">Employment opportunities</h2>
-			<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2099536/salmon-recovery-manager-exempt">Salmon Recovery Manager</a></p>		
-			<p> Closes June 19, 2018 <br />
-				
-			</p>
-				<p><a href="https://www.governmentjobs.com/careers/washington/jobs/2100126/ecosystem-recovery-coordinator-exempt">Ecosystem Recovery Coordinator</a></p>		
-			<p> Closes June 19, 2018 <br />
-				
-			</p>
-			<!-- InstanceEndEditable --> </div>
+			
+		<h2 class="margin-0-top">Employment opportunities</h2>
+		<div class=" border-thick-blue floatright padding-10-all">
+		 <p><h3>We are an Employer of Choice</h3></p> <a href="https://pspwa.box.com/s/mw6gfajvrw6ce5cpjkegafcwtde62pyo"><img src="images/news-images/emp-of-choice.jpg" width="300" height="225" alt=""/></a> 
+			</div>
+		<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2447331/deputy-director-exempt"><br>
+	    Deputy Director (Exempt)</a><br>
+			<i>Position closes May 27</i>
+	  </p>	
+		<p>
+		<a href="https://www.governmentjobs.com/careers/washington/jobs/2442833/assistant-science-director-exempt"><br>
+	    Assistant Science Director (Exempt)</a><br>
+			<i>Position closes May 27</i>
+	  </p>	
+	
+		
+	
+		<p>&nbsp;</p>
+			
+		<!-- InstanceEndEditable --> </div>
 		
 		<div class="col-sm-2 padding-20-top padding-0-right"> <!-- InstanceBeginRepeat name="right_nav_repeat" --><!-- InstanceBeginRepeatEntry --> <!-- InstanceBeginEditable name="right_nav_title" -->
 			<div class="right-nav-title">SEE ALSO</div>

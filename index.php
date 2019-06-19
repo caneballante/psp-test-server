@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
@@ -24,6 +24,7 @@
 <body>
 
 <!-- logo and menu and modal navigation gets included here -->
+&nbsp;
 <?php include 'includes/modal-inc.html';?>
 
 <!-- Intro Header -->
@@ -32,9 +33,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-md-offset-2">
- 					<h1>COORDINATED EFFORT UNDERWAY TO PROTECT AND RECOVER SOUTHERN RESIDENT ORCA</h1>
+ 					<h1>2019 PUGET SOUND DAY ON THE HILL<br>
+						May 14-16, WASHINGTON D.C.</h1>
+ 					<p>&nbsp;</p>
  					<h1 class="brand-heading">&nbsp;</h1>
- 					<div class="learn-more-box"><a href="southern-resident-orca-task-force.php">LEARN MORE</a></div>
+ 					<div class="learn-more-box"><a href="psdoth2019.php">LEARN MORE</a></div>  
+					
+					<div class="white-links"></div>
 					
  				</div>
 			</div>
@@ -52,9 +57,9 @@
 		<!--non breaking spaces keep the links from breaking into two lines-->
 		<div class="col-sm-3 padding-40-top"><img src="images/home_roadmap.png" width="264" height="264" alt="satellite view of the Salish Sea" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
-			<h1>ROADMAP TO RECOVERY</h1>
-			<div class="padding-5-bottom"><a href="action_agenda_center.php">ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
-			<div class="padding-5-bottom"><a href="2018_AA_update.php">2018-2022&nbsp;ACTION AGENDA&nbsp;UPDATE</a></div>
+			<h1>CHARTING THE COURSE TO RECOVERY</h1>
+			<div class="padding-5-bottom"><span class="new-red">NEW!</span><a href="action_agenda_center.php"> 2018-2022 ACTION&nbsp;AGENDA&nbsp;FOR PUGET&nbsp;SOUND</a></div>
+		
 			<div class="padding-5-bottom"><a href="implementation-strategies.php">IMPLEMENTATION STRATEGIES</a> </div>
 			<div class="padding-5-bottom"><a href="science-adaptive-management-framework.php">RESULTS-BASED MANAGEMENT</a></div>
 		</div>
@@ -62,9 +67,10 @@
 		<div class="col-sm-3 padding-10-top">
 			<h1>ACTIONS ACROSS THE SOUND</h1>
 			<div class="padding-5-bottom"><a href="salmon-recovery-overview.php"> SALMON&nbsp;RECOVERY</a></div>
-			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RECOVERY(PSAR)&nbsp;FUND</a></div>
+			<div class="padding-5-bottom"><a href="PSAR.php">PUGET SOUND ACQUISITION AND RESTORATION(PSAR)&nbsp;FUND</a></div>
 			<div class="padding-5-bottom"><a href="NEP-overview.php">NATIONAL ESTUARY PROGRAM (NEP)</a></div>
-			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY</a></div>
+			<a href="LIO-overview.php">LOCAL&nbsp;RECOVERY&nbsp;&amp;&nbsp;LOCAL&nbsp;INTEGRATING ORGANIZATIONS&nbsp;(LIOs)
+</a></div>
 	</div>
 	<div class="row">
 		<div class="col-sm-3 padding-40-top"><img src="images/home_measure.png" width="264" height="264" alt="water testing" class="img-responsive img-rounded"/></div>
@@ -73,14 +79,14 @@
 			<div class="padding-5-bottom"><a href="evaluating-about-report-card.php">REPORT&nbsp;CARD</a></div>
 			<div class="padding-5-bottom"><a href="evaluating-vital-signs.php">VITAL&nbsp;SIGNS</a></div>
 			<div class="padding-5-bottom"><a href="sos.php">2017&nbsp;STATE&nbsp;OF&nbsp;THE&nbsp;SOUND</a> </div>
-			<div class="padding-5-bottom"><a href="evaluating-PSEMP.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
+			<div class="padding-5-bottom"><a href="/PSEMP-overview.php">ECOSYSTEM&nbsp;MONITORING (PSEMP)</a> </div>
 			<a href="science-and-evaluation-overview.php">SCIENCE&nbsp;AND EVALUATION&nbsp;OVERVIEW</a></div>
 		<div class="col-sm-3 padding-40-top"><img src="images/home_support.png" width="264" height="264" alt="community meeting" class="img-responsive img-rounded"/></div>
 		<div class="col-sm-3 padding-10-top">
 			<h1>SUPPORTING OUR PARTNERS</h1>
 			<div class="padding-5-bottom"><a href="partnership-boards-overview.php">BOARDS</a></div>
-			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL INTEGRATING ORGANIZATIONS</a></div>
-			<div class="padding-5-bottom"><a href="legislative_updates.php">2018&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
+			<div class="padding-5-bottom"><a href="LIO-overview.php">LOCAL&nbsp;INTEGRATING&nbsp;ORGANIZATIONS&nbsp;(LIOs)</a></div>
+			<div class="padding-5-bottom"><a href="legislative_updates.php">2019&nbsp;LEGISLATIVE&nbsp;SESSION</a></div>
 			
 		</div>
 	</div>
@@ -89,16 +95,19 @@
 	<div class="container"> 
 		<!--copy column to column to create new blog post-->
 		<!--ROW START-->
-		<div class="row margin-20-top"> 
-		<!--COLUMN START-->
+		<div class="row margin-20-top">
+					<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/fir-island.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/fir-island-farm-restoration-project-ed1157efd080">
-						7/12 - Fir Island Farm restoration project
-						</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/PSDOTh.jpg"  alt=""/> 
+					<strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/good-news-from-washington-d-c-6a8b680f79af">
+5/28:Good News from Washington, D.C.
+
+					
+					  </a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
@@ -106,80 +115,251 @@
 				
 			</div>
 		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/seabeck-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/2018-action-agenda-nta-review-camp-a-huge-success-bf88ef2588cb">
-						6/18 - 2018 Action Agenda NTA Review “Camp” a huge success!
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-			<div class="col-md-3 col-sm-4">
-				<div class="newsbox newsbox-with-img">
-					<div class="newsbox-text"> 
-						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/orca-news-release.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1f5f69a">
-						6/8 - Leadership Council to consider vision for Puget Sound recovery beyond 2020
-						</a><br>
-						<!--END news content BOX--> 
-					</div>
-					<div class="clearfix"></div>
-				</div>
-				
-			</div>
-		<!--COLUMN END--> 
 				<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/Jen-lee-Salish.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/building-transboundary-community-solutions-to-protect-the-salish-sea-756b4bbc5635">
-						5/11 - Building transboundary community solutions to protect the Salish Sea
-						</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/243b974">
+5/8: Northwest leaders travel to Washington D.C. for ‘Puget Sound Day on The Hill’ together with ‘Salmon Days’
+					
+					  </a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
-		<!--COLUMN END--> 
+		<!--COLUMN END-->
+			
 			<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/plunge-group.jpg"  alt=""/> <strong>BLOG</strong><br>
-						<a href="https://medium.com/puget-sound-partnership/plunging-into-puget-sound-f511459e9813">
-						5/8 - Plunging into Puget Sound
-						</a><br>
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
+					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2428582">
+
+						
+						 May 2, 2019 
+					  </a><br>
 						<!--END news content BOX--> 
 					</div>
 					<div class="clearfix"></div>
 				</div>
 				
 			</div>
-		<!--COLUMN END--> 
-	
-							
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/Director-Blackmore.jpg"  alt=""/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="
+https://content.govdelivery.com/accounts/WAPSP/bulletins/2423f78">
+							 May 1, 2019: Laura Blackmore Named Executive Director of Puget Sound Partnership 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-update.jpg"  alt=""/> 
+					<strong>LEGISLATIVE UPDATE NEWSLETTER</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f7430">
+
+						
+						 April 19, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/leg-cal.png"  alt=""/> 
+					<strong>LEGISLATIVE SESSION CALENDAR</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23f9570">
+
+						
+						 Week 15: April 22 - 26, 2019 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+		
+				<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox newsbox-with-img">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+				<strong>MEDIA ADVISORY</strong><br>
+					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/23fa71f">
+
+Puget Sound Partnership's Science Panel to hear updates on Vital Sign revision project at April meeting
+				  </a><br>
+					<!--END news content BOX--> 
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+		</div>
+		<!--COLUMN END-->
+						
 		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
 						<!--news content BOX --> 
-						<img class="img-responsive img-rounded" src="images/news-images/press-release-orca.jpg"  alt=""/> <strong>NEWS RELEASE</strong><br>
-						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/1e27144">
-						3/15 - Puget Sound Partnership to serve key role in Southern Resident Orca Task Force
+						<img class="img-responsive img-rounded" src="images/news-images/day-on-the-hill.jpg"  alt=""/> 
+						<strong>ANNOUNCEMENT</strong><br>
+						<a href="psdoth2019.php">
+					 	Register now for Puget Sound Day on the Hill! <br>May 14-16, 2019
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox newsbox-with-img">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+				<strong>MEDIA ADVISORY</strong><br>
+					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/235dff4">
+
+
+					Puget Sound Partnership's Leadership Council to hear updates on legislative priorities at March meeting
+				  </a><br>
+					<!--END news content BOX--> 
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+		</div>
+		<!--COLUMN END-->
+		
+			
+				
+				<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+					<strong>ANNOUNCEMENT</strong><br>
+						<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/2325336">
+2/25 - PSEMP Steering Committee call for new members	
+					
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+					
+			
+		
+			<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
+					<strong>NEWS RELEASE</strong><br>
+						<a href="
+https://content.govdelivery.com/accounts/WAPSP/bulletins/22d000b">
+							 Sheida Sahandy, Executive Director of the Puget Sound Partnership, stepping down 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
+			
+								 
+			
+			
+			
+			
+			
+	
+			
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+					  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement-01.jpg"  alt=""/> 
+					<strong>EXECUTIVE DIRECTOR STATEMENT</strong><br>
+						<a href="eds01.php">
+							 Letter from Sheida Sahandy, Executive Director Puget Sound Partnership 
+					  </a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->	
+	
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox newsbox-with-img">
+				<div class="newsbox-text"> 
+					<!--news content BOX --> 
+				  <img class="img-responsive img-rounded" src="images/news-images/sheida-statement.jpg"  alt=""/> 
+				<strong>MEDIA ADVISORY</strong><br>
+					<a href="https://content.govdelivery.com/accounts/WAPSP/bulletins/22c7bfc">
+
+
+					Puget Sound Partnership's Science Panel to hear update on legislative priorities for 2019 at February meeting
+				  </a><br>
+					<!--END news content BOX--> 
+				</div>
+				<div class="clearfix"></div>
+			</div>
+
+		</div>
+		<!--COLUMN END--><!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/dan-blog.jpg"  alt=""/> <strong>BLOG</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/farmers-and-fish-in-puget-sound-choosing-a-future-for-both-45b8630922d9">
+						1/11 - Farmers and Fish in Puget Sound: Choosing a Future for Both 
 						</a><br>
 						<!--END news content BOX--> 
 					</div>
@@ -187,10 +367,26 @@
 				</div>
 				
 			</div>
-			<!--COLUMN END--> 
+			<!--COLUMN END-->
+		
+		<!--COLUMN START-->
+			<div class="col-md-3 col-sm-4">
+				<div class="newsbox newsbox-with-img">
+					<div class="newsbox-text"> 
+						<!--news content BOX --> 
+						<img class="img-responsive img-rounded" src="images/news-images/sheida-task-force.jpg"  alt=""/> <strong>STATEMENT</strong><br>
+						<a href="https://medium.com/puget-sound-partnership/statement-from-director-sheida-sahandy-on-the-final-recommendations-of-the-governors-southern-5fd34236f9ea">
+						11/16 - Statement from Director Sheida Sahandy on the final recommendations of the Governor’s Southern Resident Orca Task Force 
+						</a><br>
+						<!--END news content BOX--> 
+					</div>
+					<div class="clearfix"></div>
+				</div>
+				
+			</div>
+		<!--COLUMN END-->
 	
-			
-			<!--COLUMN START-->
+		<!--COLUMN START-->
 			<div class="col-md-3 col-sm-4">
 				<div class="newsbox newsbox-with-img">
 					<div class="newsbox-text"> 
@@ -203,20 +399,21 @@
 				</div>
 			</div>
 			<!--COLUMN END-->
+			
 		</div>
 		<!--ROW END--> 
 		<!--ROW START-->
 		<div class="row light-blue-fill">
 	
-	
-		<!--COLUMN START-->
+		
+			<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">MAY<br> 17
-				</div>
-				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD<br>
-							SOUTH SEATTLE COMMUNITY COLLEGE<br>
+				<!--news content -->
+				<div class="newsbox-date">APR<br>
+			  24-25</div>
+				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
+					University of Washington<br>
 							</a><br>
 				</div>
 				<!--END news content-->
@@ -226,37 +423,11 @@
 		<!--COLUMN START-->
 		<div class="col-md-3 col-sm-4">
 			<div class="newsbox calendarbox">
-				<!--news content-->
-				<div class="newsbox-date">MAY<br> 
-				31
-				</div>
-				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
-							 EDMOND CENTER FOR THE ARTS</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
 				<!--news content -->
-				<div class="newsbox-date">JUN<br> 
-				12 </div>
-				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL, <br>
-				SHORELINE</a><br>
-				</div>
-				<!--END news content-->
-			</div>
-		</div>
-		<!--COLUMN END-->
-		<!--COLUMN START-->
-		<div class="col-md-3 col-sm-4">
-			<div class="newsbox calendarbox">
-				<!--news content -->
-				<div class="newsbox-date">July<br> 11-12</div>
-				<div class="newsbox-text"><a href="SP_meetings.php">SCIENCE PANEL, <br>
-							WESTERN WASHINGTON UNIVERSITY<br>
+				<div class="newsbox-date">MAY<br>
+			  16</div>
+				<div class="newsbox-text"><a href="EB_meetings.php">ECOSYSTEM COORDINATION BOARD, <br>
+					South Seattle Community College Georgetown<br>
 							</a><br>
 					<br>
 				</div>
@@ -264,6 +435,36 @@
 			</div>
 		</div>
 		<!--COLUMN END-->
+		
+		<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">MAY<br> 
+				23
+				</div>
+				<div class="newsbox-text"><a href="SR_meetings.php">SALMON RECOVERY COUNCIL, <br>
+					Edmonds Center for the Arts, Edmonds,WA</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+				<!--COLUMN START-->
+		<div class="col-md-3 col-sm-4">
+			<div class="newsbox calendarbox">
+				<!--news content-->
+				<div class="newsbox-date">JUN<br>
+			  11-12</div>
+				<div class="newsbox-text"><a href="LC_meetings.php">LEADERSHIP COUNCIL<br>
+				    Mt. Vernon, WA<br>
+							</a><br>
+				</div>
+				<!--END news content-->
+			</div>
+		</div>
+		<!--COLUMN END-->
+		
 	</div>
 	<!--ROW END-->
 	
