@@ -76,8 +76,17 @@
 		</div>
 		 
 		<div class="col-sm-7 padding-20-top content-column"> <!-- InstanceBeginEditable name="6col_content" -->
+			
+		<p></p>The Puget Sound Partnership is transitioning to a new user-friendly database to allow easy filtering of Regional Priorities and Near Term Actions for Puget Sound recovery and to monitor and report on implementation of the Action Agenda. Please visit the new Action Agenda Tracker at https://actionagenda.pugetsoundinfo.wa.gov/. 
+The Action Agenda Tracker was created to allow implementers, funders, decisionmakers, and the public to track Puget Sound recovery actions. The Tracker also helps us tell stories about the work and accomplishments of the broad community of organizations and individuals dedicated to Puget Sound recovery. All Regional Priorities and Near Term Actions in the Action Agenda for Puget Sound are now stored in the Tracker.
+ 
+***Sign up for an Action Agenda Tracker training session***
+The Partnership will offer training for Near Term Action (NTA) managers and other Action Agenda Tracker audiences on using and reporting in the new online tool. There will be multiple training opportunities, in-person and online, in late April-early May. Please follow this link for a list of training sessions, instructions on how to RSVP and how to add the invite to your calendar—additional trainings in different locations will be added to this list. Trainings are optional but strongly recommended for NTA managers, as well others who are likely to use or interact with the new tool.
+
+			
+			
 			<div class="highlightbox margin-0-top">
-			<p>  <span lang="EN">On December 5, 2018, the Leadership Council adopted the 2018-2022 Action Agenda for Puget Sound after reviewing recommendations from the Ecosystem Recovery Board, Salmon Recovery Council and Science Panel, as well as input received from advisory boards, tribes, and the public</span>. </p>
+			<p>  >On December 5, 2018, the Leadership Council adopted the 2018-2022 Action Agenda for Puget Sound after reviewing recommendations from the Ecosystem Recovery Board, Salmon Recovery Council and Science Panel, as well as input received from advisory boards, tribes, and the public. </p>
 			<p>	As part of its proposal, the Leadership Council asked that the Southern Resident Orca Vital Sign be added as a priority Vital Sign for this 4 year period.  Bringing the Task Force recommendations into the sphere of the Action Agenda is essential to leverage existing efforts and momentum and to identify the actions that can have the largest benefit for both Southern Resident orcas and the Puget Sound ecosystem as a whole.</p>
 				<p>	This Action Agenda could not have been made without the dedication and work of all of our partners and broader recovery community. The 2018-2022 Action Agenda for Puget Sound charts the course to recovery of our nation's largest estuary–it complements and incorporates the work of many local and regional partners from around Puget Sound to describe strategies and specific actions needed to recover Puget Sound.  </p>
 <p>	<a href="http://www.psp.wa.gov/action_agenda_center.php">Access the 2018-2022 Action Agenda </a></p>
